@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="folder-dropbox.svg"
+   inkscape:export-filename="/home/plejeck/.icons/sayaka/places/64/folder-anime.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3019"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3021-4"
+         d="M 0,170 446,170 446,0 0,0 0,170 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cae4da"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="38.690614"
+     inkscape:cy="25.065042"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1274"
+     inkscape:window-height="769"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:snap-global="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3757"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="6px"
+       spacingy="6px"
+       dotted="false"
+       color="#0000ff"
+       opacity="0.08627451"
+       originx="2px"
+       originy="2px" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3808"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#1bff00"
+       opacity="0.1254902"
+       empcolor="#00ff0d"
+       empopacity="0.25098039"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)">
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3754"
+       d="m 10.15625,998.36218 -1.3124998,4.00002 -3.84375,0 0,42 53.9999998,0 0,-42 -31.844001,0 -1.312,-4.00002 z"
+       style="fill:#4994bc;fill-opacity:0.7091837;stroke:none" />
+    <path
+       style="fill:#4994bc;fill-opacity:1;stroke:none"
+       d="m 5,1010.3622 0,34 54,0 0,-34 -54,0 z"
+       id="path4280" />
+    <g
+       transform="matrix(0.22871572,0,0,-0.22871572,9.8353425,1046.8918)"
+       inkscape:label="dropbox-logos_dropbox-logotype-blue"
+       id="g2993"
+       style="fill:#6da9c9;fill-opacity:1">
+      <g
+         transform="translate(76.1162,130.9785)"
+         id="g2995"
+         style="fill:#6da9c9;fill-opacity:1">
+        <path
+           id="path2997"
+           style="fill:#6da9c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 -29.63,-19.346 -9.143,-35.752 20.732,-17.305 0,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(46.4863,78.8198)"
+         id="g2999"
+         style="fill:#6da9c9;fill-opacity:1">
+        <path
+           id="path3001"
+           style="fill:#6da9c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 29.63,-19.346 50.362,-2.04 20.487,16.407 0,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(96.8486,76.7798)"
+         id="g3003"
+         style="fill:#6da9c9;fill-opacity:1">
+        <path
+           id="path3005"
+           style="fill:#6da9c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 20.733,-17.306 50.362,2.04 29.875,18.447 0,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(147.2109,111.6328)"
+         id="g3007"
+         style="fill:#6da9c9;fill-opacity:1">
+        <path
+           id="path3009"
+           style="fill:#6da9c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 -29.629,19.346 -50.362,2.041 -20.487,-16.406 0,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(96.9092,73.0566)"
+         id="g3011"
+         style="fill:#6da9c9;fill-opacity:1">
+        <path
+           id="path3013"
+           style="fill:#6da9c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 -20.793,-17.254 -8.897,5.809 0,-6.513 29.69,-17.805 29.691,17.805 0,6.513 -8.896,-5.809 L 0,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
